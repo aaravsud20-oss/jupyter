@@ -1,27 +1,3 @@
-.. _install:
-
-===============
-Install and Use
-===============
-
-.. NOTE: some links below must have double-underscores to be anonymous if they have the same text
-
-This page contains information and links about installing and using tools across
-the Jupyter ecosystem. Generally speaking, the documentation of each tool is the
-place to learn about the best-practices for how to install and use the tool.
-
-Jupyter Notebook Interface
-==========================
-
-The **Jupyter Notebook interface** is a Web-based application for authoring documents that combine
-live-code with narrative text, equations and visualizations.
-
-
-* `GitHub Repo <https://github.com/jupyter/notebook>`__
-* `Docs <https://jupyter-notebook.readthedocs.io/en/latest/?badge=latest>`_
-
-.. toctree::
-   :maxdepth: 1
 
    /install/notebook-classic
    /use/upgrade-notebook
